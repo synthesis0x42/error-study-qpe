@@ -1,5 +1,5 @@
 # error propagation study
-For my SciX project. Created by Akira Li, run on Qiskit with Google Colaboratory.
+For my research project. Created by Akira Li, run on Qiskit with Google Colaboratory.
 
 Results regarding state fidelity:
 | no. of qubits / p in depolarisation channel | 0\.01               | 0\.05                | 0\.1                 | 0\.2                  |
